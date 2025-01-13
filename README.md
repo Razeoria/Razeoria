@@ -1,16 +1,25 @@
-## Hi there 👋
+![Logo](https://github.com/Razeoria/Razeoria/blob/main/bangit.jpg?raw=true)
 
-<!--
-**Razeoria/Razeoria** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+&nbsp;
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://github.com/Razeoria/Razeoria/blob/main/image%20(1).png?raw=true" alt="Centered Image">
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/Razeoria/Razeoria/blob/main/behance%20(1).png?raw=true">
+    <img src="https://github.com/Razeoria/Razeoria/blob/main/behance%20(1).png?raw=true" alt="Behance" width="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/valy.lan/">
+    <img src="https://github.com/Razeoria/Razeoria/blob/main/instagram.png?raw=true" alt="Instagram" width="40">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:latemaestro@gmail.com">
+    <img src="https://github.com/Razeoria/Razeoria/blob/main/mail%20(1).png?raw=true" alt="Email" width="40">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/Razeoria/Razeoria/blob/main/ezgif-7-f23fd332a8-unscreen.gif?raw=true" alt="GIF">
+</p>

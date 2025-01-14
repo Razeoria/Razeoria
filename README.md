@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Razeoria/Razeoria/blob/main/behance%20(1).png?raw=true">
+  <a href="https://www.behance.net/valentynalandar">
     <img src="https://github.com/Razeoria/Razeoria/blob/main/behance%20(1).png?raw=true" alt="Behance" width="40">
   </a>
   &nbsp;&nbsp;&nbsp;&nbsp;
